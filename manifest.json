@@ -1,0 +1,20 @@
+{
+    "name": "SAO Dashboard",
+    "display_name": "SAO Dashboard",
+    "version": "1.0.0",
+    "description": "A Sword Art Online themed dashboard component, triggered by regex.",
+    "author": "Cline",
+    "js": [
+        "js/state.js",
+        "js/equipment.js",
+        "js/shop.js",
+        "js/skill.js",
+        "js/managers.js",
+        "js/ui.js",
+        "js/app.js"
+    ],
+    "css": [
+        "style.css"
+    ],
+    "auto_update": true
+}
